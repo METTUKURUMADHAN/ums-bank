@@ -1,0 +1,4 @@
+ls - to see things in current directory
+
+git status - to see any changes are done or not.
+
